@@ -1,0 +1,115 @@
+---
+title: "JBarryStraume_Unit8CaseStudy"
+author: "Jostein Barry-Straume"
+date: "6/24/2018"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Financial Applications of Time Series
+## MSDS 7333 - Section 404
+## Unit 4: Case Study
+
+[Data Science @ Southern Methodist University](https://datascience.smu.edu/)
+
+# Table of Contents
+* [Team Members](#Team-Members)
+* [Abstract](#Abstract)
+* [Introduction](#Introduction)
+* [Literature Review](#Literature-Review)
+* [Background](#Background)
+* [Methods](#Methods)
+* [Results](#Results)
+* [Future Work, Discussion, and Conclusion](#Conclusion)
+* [References](#References)
+
+# <a name="Team-Members"></a>Team Members
+* [Jostein Barry-Straume](https://github.com/josteinstraume)
+
+# <a name="Abstract"></a>Abstract
+
+> In this case study, the application of blah blah blah is presented.
+
+# <a name="Introduction"></a>Introduction
+
+> Intro paragraph here
+
+![Xkcd: Marketwatch[3]](../images/marketwatch.png)
+
+> More intro stuff here
+
+# <a name="Literature-Review"></a>Literature Review
+
+> Literature review stuff here
+
+$$SharpeRatio=\frac{\bar{r}_p - r_f} {{\sigma}_p}$$
+
+| Symbol | Description |
+| :------: | :-----------: |
+| $$\bar{r}_p$$ | Represents the expected portfolio return |
+| $$r_f$$ | Represents the risk free rate |
+| $${\sigma}_p$$ | Represents the portfolio's standard deviation |
+
+# <a name="Background"></a>Background
+
+### Import Dataset
+
+> Variable names and their descriptions for the dataset are displayed below:
+
+| Company | Stock Ticker |
+| :------: | :-----------: |
+| Tesla, Inc. | TSLA |
+| American Airlines | AA |
+| International Business Machines Corp. (IBM) | IBM |
+| General Electric (GE) | GE |
+| Advanced Micro Devices, Inc. (AMD) | AMD |
+| Cisco | CSCO |
+| Amazon | AMZN |
+| JPMorgan Chase & Co. | JPM |
+
+> Transition to data importation
+
+```{r}
+print("Code goes here!")
+```
+
+### Summary Statistics
+
+> The summary statistics for each company are found below:
+
+```{r}
+print("Summary stats code goes here!")
+```
+
+# <a name="Methods"></a>Methods
+
+> Explain below code for methods
+
+```{r}
+print("methods section code goes here!")
+```
+
+# <a name="Results"></a>Results
+
+> Results paragraph here
+
+# <a name="Conclusion"></a>Future Work, Discussion, and Conclusion
+
+> Paragraph 1
+
+> Paragraph 2
+
+> Paragraph 3
+
+> Paragraph 4
+
+# <a name="References"></a>References
+
+1. Nolan and lang
+
+2. Blah blah
+
+3. Dummy reference
